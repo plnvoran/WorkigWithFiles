@@ -1,0 +1,18 @@
+{
+  "id": 777,
+  "name": "John Silver",
+  "description": "The secret leader of the pirates",
+  "personalInfo": {
+    "size": 55,
+    "height": 170,
+    "weight": 80
+  },
+  "cities": [
+    "London",
+    "Paris",
+    "Rome"
+  ],
+  "isGoodPerson": false
+}
+
+
